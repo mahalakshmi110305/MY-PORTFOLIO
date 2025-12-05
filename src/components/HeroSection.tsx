@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Github, Linkedin, Mail } from "lucide-react";
 import profileImage from "@/assets/profile.png";
 
-const roles = ["Front-End Developer"];
+const roles = ["Front-End Developer","Data Analysis"];
 
 const HeroSection = () => {
   const [currentRole, setCurrentRole] = useState(0);
