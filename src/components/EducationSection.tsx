@@ -25,9 +25,6 @@ const education = [
 ];
 
 const certificates = [
-  "AWS Cloud Practitioner Essentials",
-  "Python (Basic) - HackerRank Certified",
-  "Java (Basic) - HackerRank Certified",
   "Build Your Own Static Website - NxtWave CCBP 4.0",
   "Build Your Own Responsive Website - NxtWave CCBP 4.0",
   "Introduction to Databases - NxtWave CCBP 4.0",
